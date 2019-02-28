@@ -1,4 +1,0 @@
-1..2
-ok 1 - pex.task.rename.test/test__rename__renamed
-ok 2 - pex.test.test_manifest/test_recurse
-

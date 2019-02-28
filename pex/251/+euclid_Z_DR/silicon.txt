@@ -1,0 +1,384 @@
+1..7
+not ok 1 - pex.task.euclid_Z_DR.test/test__euclid_Z_DR__count
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(9, -24) to call euclid_Z_LP 1 times, but your function called it 0 times.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> The values are not equal using "isequaln".
+#     --> Failure table:
+#             Actual    Expected    Error    RelativeError
+#             ______    ________    _____    _____________
+#
+#               0          1         -1           -1
+#
+#     Actual Value:
+#          0
+#     Expected Value:
+#          1
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 57
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(9, -24) to call isZ 13 times, but your function called it 11 times.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> The values are not equal using "isequaln".
+#     --> Failure table:
+#             Actual    Expected    Error      RelativeError
+#             ______    ________    _____    __________________
+#
+#               11         13        -2      -0.153846153846154
+#
+#     Actual Value:
+#         11
+#     Expected Value:
+#         13
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 57
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(4, -23) to call euclid_Z_LP 1 times, but your function called it 0 times.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> The values are not equal using "isequaln".
+#     --> Failure table:
+#             Actual    Expected    Error    RelativeError
+#             ______    ________    _____    _____________
+#
+#               0          1         -1           -1
+#
+#     Actual Value:
+#          0
+#     Expected Value:
+#          1
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 57
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(4, -23) to call isZ 13 times, but your function called it 11 times.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> The values are not equal using "isequaln".
+#     --> Failure table:
+#             Actual    Expected    Error      RelativeError
+#             ______    ________    _____    __________________
+#
+#               11         13        -2      -0.153846153846154
+#
+#     Actual Value:
+#         11
+#     Expected Value:
+#         13
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 57
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(15, -22) to call euclid_Z_LP 1 times, but your function called it 0 times.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> The values are not equal using "isequaln".
+#     --> Failure table:
+#             Actual    Expected    Error    RelativeError
+#             ______    ________    _____    _____________
+#
+#               0          1         -1           -1
+#
+#     Actual Value:
+#          0
+#     Expected Value:
+#          1
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 57
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__count) at 35
+# ================================================================================
+#
+ok 2 - pex.task.euclid_Z_DR.test/test__euclid_Z_DR__dependence
+ok 3 - pex.task.euclid_Z_DR.test/test__euclid_Z_DR__exception
+ok 4 - pex.task.euclid_Z_DR.test/test__euclid_Z_DR__format
+not ok 5 - pex.task.euclid_Z_DR.test/test__euclid_Z_DR__output
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(9, -24) == [-1, -15], but found [0, 9].
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> The error was not within relative tolerance.
+#         --> Failure table:
+#                 Actual    Expected    Error    RelativeError    RelativeTolerance
+#                 ______    ________    _____    _____________    _________________
+#
+#                   0          -1         1           -1                1e-09
+#
+#         Actual double:
+#              0
+#         Expected double:
+#             -1
+#
+#     Actual Value:
+#       1x2 cell array
+#
+#         {[0]}    {[9]}
+#     Expected Value:
+#       1x2 cell array
+#
+#         {[-1]}    {[-15]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_output.m (test_output_generic) at 56
+#     In #+pex/+test/test_output.m (test_output) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__output) at 51
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(4, -23) == [-1, -19], but found [0, 4].
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> The error was not within relative tolerance.
+#         --> Failure table:
+#                 Actual    Expected    Error    RelativeError    RelativeTolerance
+#                 ______    ________    _____    _____________    _________________
+#
+#                   0          -1         1           -1                1e-09
+#
+#         Actual double:
+#              0
+#         Expected double:
+#             -1
+#
+#     Actual Value:
+#       1x2 cell array
+#
+#         {[0]}    {[4]}
+#     Expected Value:
+#       1x2 cell array
+#
+#         {[-1]}    {[-19]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_output.m (test_output_generic) at 56
+#     In #+pex/+test/test_output.m (test_output) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__output) at 51
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(15, -22) == [-1, -7], but found [0, 15].
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> The error was not within relative tolerance.
+#         --> Failure table:
+#                 Actual    Expected    Error    RelativeError    RelativeTolerance
+#                 ______    ________    _____    _____________    _________________
+#
+#                   0          -1         1           -1                1e-09
+#
+#         Actual double:
+#              0
+#         Expected double:
+#             -1
+#
+#     Actual Value:
+#       1x2 cell array
+#
+#         {[0]}    {[15]}
+#     Expected Value:
+#       1x2 cell array
+#
+#         {[-1]}    {[-7]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_output.m (test_output_generic) at 56
+#     In #+pex/+test/test_output.m (test_output) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__output) at 51
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(10, -21) == [-1, -11], but found [0, 10].
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> The error was not within relative tolerance.
+#         --> Failure table:
+#                 Actual    Expected    Error    RelativeError    RelativeTolerance
+#                 ______    ________    _____    _____________    _________________
+#
+#                   0          -1         1           -1                1e-09
+#
+#         Actual double:
+#              0
+#         Expected double:
+#             -1
+#
+#     Actual Value:
+#       1x2 cell array
+#
+#         {[0]}    {[10]}
+#     Expected Value:
+#       1x2 cell array
+#
+#         {[-1]}    {[-11]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_output.m (test_output_generic) at 56
+#     In #+pex/+test/test_output.m (test_output) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__output) at 51
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.euclid_Z_DR.test/test__euclid_Z_DR__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_Z_DR(-5, -20) == [0, -5], but found [1, 15].
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> The error was not within relative tolerance.
+#         --> Failure table:
+#                 Actual    Expected    Error    RelativeError    RelativeTolerance
+#                 ______    ________    _____    _____________    _________________
+#
+#                   1          0          1           Inf               1e-09
+#
+#         Actual double:
+#              1
+#         Expected double:
+#              0
+#
+#     Actual Value:
+#       1x2 cell array
+#
+#         {[1]}    {[15]}
+#     Expected Value:
+#       1x2 cell array
+#
+#         {[0]}    {[-5]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_output.m (test_output_generic) at 56
+#     In #+pex/+test/test_output.m (test_output) at 7
+#     In #+pex/+task/+euclid_Z_DR/test.m (test__euclid_Z_DR__output) at 51
+# ================================================================================
+#
+ok 6 - pex.task.euclid_Z_DR.test/test__euclid_Z_DR__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

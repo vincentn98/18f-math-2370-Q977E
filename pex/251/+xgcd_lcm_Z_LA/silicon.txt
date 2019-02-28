@@ -1,0 +1,5 @@
+This test was aborted because of a previous failure (see below).
+
+This test was not run because a prior test failed (see below). As a result, this test counts as failed.
+
+Expected `xgcd_lcm_Z_LA` to not call `gcd`.

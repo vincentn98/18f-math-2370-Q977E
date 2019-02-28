@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.isR.test/test__isR__count
+ok 2 - pex.task.isR.test/test__isR__dependence
+ok 3 - pex.task.isR.test/test__isR__exception
+ok 4 - pex.task.isR.test/test__isR__format
+ok 5 - pex.task.isR.test/test__isR__output
+ok 6 - pex.task.isR.test/test__isR__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

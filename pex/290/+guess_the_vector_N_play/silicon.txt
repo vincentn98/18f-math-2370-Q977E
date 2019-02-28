@@ -1,0 +1,51 @@
+1..7
+ok 1 - pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__count
+ok 2 - pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__dependence
+ok 3 - pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__exception
+ok 4 - pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__format
+not ok 5 - pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__output
+# ================================================================================
+# Verification failed in pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected guess_the_vector_N_play(make_oracle(1), 1) == 1, found 0.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> Failure table:
+#                 Actual    Expected    Error    RelativeError
+#                 ______    ________    _____    _____________
+#
+#                   0          1         -1           -1
+#
+#         Actual double:
+#              0
+#         Expected double:
+#              1
+#
+#     Actual Value:
+#       1x1 cell array
+#
+#         {[0]}
+#     Expected Value:
+#       1x1 cell array
+#
+#         {[1]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+task/+guess_the_vector_N_play/test_output.m (test_output) at 50
+#     In #+pex/+test/test_output.m (test_output) at 9
+#     In #+pex/+task/+guess_the_vector_N_play/test.m (test__guess_the_vector_N_play__output) at 51
+# ================================================================================
+#
+ok 6 - pex.task.guess_the_vector_N_play.test/test__guess_the_vector_N_play__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

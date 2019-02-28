@@ -1,0 +1,83 @@
+1..7
+ok 1 - pex.task.up_R.test/test__up_R__count
+ok 2 - pex.task.up_R.test/test__up_R__dependence
+ok 3 - pex.task.up_R.test/test__up_R__exception
+ok 4 - pex.task.up_R.test/test__up_R__format
+not ok 5 - pex.task.up_R.test/test__up_R__output
+# ================================================================================
+# Verification failed in pex.task.up_R.test/test__up_R__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected up_R(make_oracle_R(-4.387101e+04)) == [-65536, -32768], found [1, 0.500000].
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> Path to failure: <Value>{1}
+#         --> The values are not equal using "isequaln".
+#         --> Failure table:
+#                 Actual    Expected    Error      RelativeError
+#                 ______    ________    _____    _________________
+#
+#                   1        -65536     65537    -1.00001525878906
+#
+#         Actual double:
+#              1
+#         Expected double:
+#               -65536
+#
+#     Actual Value:
+#       1x2 cell array
+#
+#         {[1]}    {[0.500000000000000]}
+#     Expected Value:
+#       1x2 cell array
+#
+#         {[-65536]}    {[-32768]}
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+task/+up_R/test_output.m (test_output) at 50
+#     In #+pex/+test/test_output.m (test_output) at 9
+#     In #+pex/+task/+up_R/test.m (test__up_R__output) at 51
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.up_R.test/test__up_R__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected up_R(make_oracle_R(-4.387101e+04)) to call the oracle 18 times, not 2.
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyEqual failed.
+#     --> The values are not equal using "isequaln".
+#     --> Failure table:
+#             Actual    Expected    Error      RelativeError
+#             ______    ________    _____    __________________
+#
+#               2          18        -16     -0.888888888888889
+#
+#     Actual Value:
+#          2
+#     Expected Value:
+#         18
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+task/+up_R/test_output.m (test_output) at 53
+#     In #+pex/+test/test_output.m (test_output) at 9
+#     In #+pex/+task/+up_R/test.m (test__up_R__output) at 51
+# ================================================================================
+#
+ok 6 - pex.task.up_R.test/test__up_R__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

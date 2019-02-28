@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.isodd.test/test__isodd__count
+ok 2 - pex.task.isodd.test/test__isodd__dependence
+ok 3 - pex.task.isodd.test/test__isodd__exception
+ok 4 - pex.task.isodd.test/test__isodd__format
+ok 5 - pex.task.isodd.test/test__isodd__output
+ok 6 - pex.task.isodd.test/test__isodd__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.isZ.test/test__isZ__count
+ok 2 - pex.task.isZ.test/test__isZ__dependence
+ok 3 - pex.task.isZ.test/test__isZ__exception
+ok 4 - pex.task.isZ.test/test__isZ__format
+ok 5 - pex.task.isZ.test/test__isZ__output
+ok 6 - pex.task.isZ.test/test__isZ__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

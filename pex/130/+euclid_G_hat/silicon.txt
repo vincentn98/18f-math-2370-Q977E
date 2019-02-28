@@ -1,0 +1,35 @@
+1..7
+ok 1 - pex.task.euclid_G_hat.test/test__euclid_G_hat__count
+ok 2 - pex.task.euclid_G_hat.test/test__euclid_G_hat__dependence
+not ok 3 - pex.task.euclid_G_hat.test/test__euclid_G_hat__exception
+# ================================================================================
+# Verification failed in pex.task.euclid_G_hat.test/test__euclid_G_hat__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected euclid_G_hat(0, 0, 'x') to throw exception `euclid_G_hat:div_by_zero` (Cannot divide by zero.), but your function threw `euclid_G_hat:natural_q0` (Current quotient must be natural.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 44
+#     In #+pex/+task/+euclid_G_hat/test.m (test__euclid_G_hat__exception) at 43
+# ================================================================================
+#
+ok 4 - pex.task.euclid_G_hat.test/test__euclid_G_hat__format
+ok 5 - pex.task.euclid_G_hat.test/test__euclid_G_hat__output
+ok 6 - pex.task.euclid_G_hat.test/test__euclid_G_hat__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

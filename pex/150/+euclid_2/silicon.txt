@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.euclid_2.test/test__euclid_2__count
+ok 2 - pex.task.euclid_2.test/test__euclid_2__dependence
+ok 3 - pex.task.euclid_2.test/test__euclid_2__exception
+ok 4 - pex.task.euclid_2.test/test__euclid_2__format
+ok 5 - pex.task.euclid_2.test/test__euclid_2__output
+ok 6 - pex.task.euclid_2.test/test__euclid_2__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

@@ -1,0 +1,301 @@
+1..7
+not ok 1 - pex.task.down_R.test/test__down_R__count
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(3.372678e+05), 337170.635377, 337273.478629, 0.004503) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+down_R/test.m (test__down_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(-4.084254e+05), -408486.832787, -408424.272182, 0.005733) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+down_R/test.m (test__down_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(1.203201e+05), 120260.036078, 120337.322742, 0.000903) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+down_R/test.m (test__down_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(1.141500e+04), 11408.938819, 11487.568248, 0.005566) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+down_R/test.m (test__down_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(4.117114e+05), 411647.424008, 411736.888652, 0.000887) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+down_R/test.m (test__down_R__count) at 35
+# ================================================================================
+#
+ok 2 - pex.task.down_R.test/test__down_R__dependence
+not ok 3 - pex.task.down_R.test/test__down_R__exception
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(3.372678e+05), 337170.635377, 337273.478629, 0.004503) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+down_R/test.m (test__down_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(-4.084254e+05), -408486.832787, -408424.272182, 0.005733) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+down_R/test.m (test__down_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(1.203201e+05), 120260.036078, 120337.322742, 0.000903) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+down_R/test.m (test__down_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(1.141500e+04), 11408.938819, 11487.568248, 0.005566) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+down_R/test.m (test__down_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(4.117114e+05), 411647.424008, 411736.888652, 0.000887) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+down_R/test.m (test__down_R__exception) at 43
+# ================================================================================
+#
+ok 4 - pex.task.down_R.test/test__down_R__format
+not ok 5 - pex.task.down_R.test/test__down_R__output
+# ================================================================================
+# Verification failed in pex.task.down_R.test/test__down_R__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected down_R(make_oracle_R(3.372678e+05), 337170.635377, 337273.478629, 0.004503) == 337267.783772, your function threw exception down_R:interval (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+task/+down_R/test_output.m (test_output) at 56
+#     In #+pex/+test/test_output.m (test_output) at 9
+#     In #+pex/+task/+down_R/test.m (test__down_R__output) at 51
+# ================================================================================
+#
+ok 6 - pex.task.down_R.test/test__down_R__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.fibonacci_matrix.test/test__fibonacci_matrix__count
+ok 2 - pex.task.fibonacci_matrix.test/test__fibonacci_matrix__dependence
+ok 3 - pex.task.fibonacci_matrix.test/test__fibonacci_matrix__exception
+ok 4 - pex.task.fibonacci_matrix.test/test__fibonacci_matrix__format
+ok 5 - pex.task.fibonacci_matrix.test/test__fibonacci_matrix__output
+ok 6 - pex.task.fibonacci_matrix.test/test__fibonacci_matrix__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

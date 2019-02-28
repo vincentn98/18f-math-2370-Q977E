@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.coprime.test/test__coprime__count
+ok 2 - pex.task.coprime.test/test__coprime__dependence
+ok 3 - pex.task.coprime.test/test__coprime__exception
+ok 4 - pex.task.coprime.test/test__coprime__format
+ok 5 - pex.task.coprime.test/test__coprime__output
+ok 6 - pex.task.coprime.test/test__coprime__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

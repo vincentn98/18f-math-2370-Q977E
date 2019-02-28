@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.mod_mult_inv.test/test__mod_mult_inv__count
+ok 2 - pex.task.mod_mult_inv.test/test__mod_mult_inv__dependence
+ok 3 - pex.task.mod_mult_inv.test/test__mod_mult_inv__exception
+ok 4 - pex.task.mod_mult_inv.test/test__mod_mult_inv__format
+ok 5 - pex.task.mod_mult_inv.test/test__mod_mult_inv__output
+ok 6 - pex.task.mod_mult_inv.test/test__mod_mult_inv__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

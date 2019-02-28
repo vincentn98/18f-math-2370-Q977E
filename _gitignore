@@ -1,0 +1,16 @@
+# This file tells git which files to ignore,
+# i.e., files which might exist inside of your
+# local repo, but which should not be pushed
+# out to the remote repo.
+
+# When you edit spam.m, MATLAB will generate
+# an auto-save file named spam.asv.
+*.asv
+
+# Mac OSX junk.
+.DS_Store
+
+# vim junk
+*.swp
+
+.idea/

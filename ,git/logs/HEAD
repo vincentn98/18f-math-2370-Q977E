@@ -1,0 +1,78 @@
+0000000000000000000000000000000000000000 9f86a7025a9ce9f66bd80887fd084fbc3655e2d9 Vincent Nguyen <vincentn98@gmail.com> 1536257804 -0500	clone: from https://github.com/bmccary/18f-math-2370-Q977E.git
+9f86a7025a9ce9f66bd80887fd084fbc3655e2d9 73030f3244a23a648277c7bab64c480d88efe7d1 Vincent Nguyen <vincentn98@gmail.com> 1536805133 -0500	pull --no-rebase --progress origin: Fast-forward
+73030f3244a23a648277c7bab64c480d88efe7d1 f0f624f9b208ff63b00cb5cb7c19137ce5db760b Vincent Nguyen <vincentn98@gmail.com> 1536805916 -0500	commit: 9/12/18
+f0f624f9b208ff63b00cb5cb7c19137ce5db760b 66d393f2078347c2facf59cb70ba0288484109f3 Vincent Nguyen <vincentn98@gmail.com> 1536810836 -0500	commit: 9/12/18
+66d393f2078347c2facf59cb70ba0288484109f3 739a0cb5e975ee9569f99a43032d42183766899d Vincent Nguyen <vincentn98@gmail.com> 1537298022 -0500	pull --no-rebase --progress origin: Fast-forward
+739a0cb5e975ee9569f99a43032d42183766899d c82a6189ad8aea04262e795e6c4ff12dca51b569 Vincent Nguyen <vincentn98@gmail.com> 1537300675 -0500	commit: 9/18/18
+c82a6189ad8aea04262e795e6c4ff12dca51b569 68a19179c15389821496301fe2c1098502fb6405 Vincent Nguyen <vincentn98@gmail.com> 1537306787 -0500	commit: 9/18/18
+68a19179c15389821496301fe2c1098502fb6405 e4b62dc7e45a99d3cd01229611ecfc9663331d78 Vincent Nguyen <vincentn98@gmail.com> 1537887616 -0500	pull --no-rebase --progress origin: Fast-forward
+e4b62dc7e45a99d3cd01229611ecfc9663331d78 a6119111508da1acb22648032606f8137c052dae Vincent Nguyen <vincentn98@gmail.com> 1538071539 -0500	commit: 9/27/18
+a6119111508da1acb22648032606f8137c052dae 34735c92b1745d5e541812c35f7135ae4a09ab71 Vincent Nguyen <vincentn98@gmail.com> 1538170393 -0500	pull --no-rebase --progress origin: Fast-forward
+34735c92b1745d5e541812c35f7135ae4a09ab71 fb0d298c5cba5c94da6c02f230f919c147886bf2 Vincent Nguyen <vincentn98@gmail.com> 1538171683 -0500	commit: 9/28/18
+fb0d298c5cba5c94da6c02f230f919c147886bf2 62b6f859e05a78390c3186c9ad46797e7fb18adc Vincent Nguyen <vincentn98@gmail.com> 1538179978 -0500	commit: 9/28/18
+62b6f859e05a78390c3186c9ad46797e7fb18adc 894531a5eff77f56c6c3370f71ff13c029ab69ef Vincent Nguyen <vincentn98@gmail.com> 1539188831 -0500	pull --no-rebase --progress origin: Fast-forward
+894531a5eff77f56c6c3370f71ff13c029ab69ef c4f78e08013897176fdb3aa39e812f21153d1867 Vincent Nguyen <vincentn98@gmail.com> 1539194847 -0500	commit: 10/10/18
+c4f78e08013897176fdb3aa39e812f21153d1867 139201b38cbde2267153b583ff4013207c3c7397 Vincent Nguyen <vincentn98@gmail.com> 1539201396 -0500	commit: 10/10/18
+139201b38cbde2267153b583ff4013207c3c7397 bb20354f67f5592ea7dc867d634b4b754b36c66f Vincent Nguyen <vincentn98@gmail.com> 1539793647 -0500	pull --no-rebase --progress origin: Fast-forward
+bb20354f67f5592ea7dc867d634b4b754b36c66f 236f082d29f3567b34abb9ab5aa91e383bc93571 Vincent Nguyen <vincentn98@gmail.com> 1539794023 -0500	commit: 10/17/18
+236f082d29f3567b34abb9ab5aa91e383bc93571 dbb071b09fce9da58bb3801a1229280f291a4f28 Vincent Nguyen <vincentn98@gmail.com> 1540059493 -0500	pull --no-rebase --progress origin: Fast-forward
+dbb071b09fce9da58bb3801a1229280f291a4f28 b7a3b9d25640dbc88c2906a2340b55ddb829fcd7 Vincent Nguyen <vincentn98@gmail.com> 1540059994 -0500	commit: 10/20/18
+b7a3b9d25640dbc88c2906a2340b55ddb829fcd7 16335c78629d0948a5c32e88bb8214bf6193d7b7 Vincent Nguyen <vincentn98@gmail.com> 1540142549 -0500	commit: 10/21/18
+16335c78629d0948a5c32e88bb8214bf6193d7b7 5499e0addc24407216dcd708d6e7ad553936d06e Vincent Nguyen <vincentn98@gmail.com> 1540142557 -0500	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+5499e0addc24407216dcd708d6e7ad553936d06e 628d128c5a4e383e68165028735f5b3f62fb1354 Vincent Nguyen <vincentn98@gmail.com> 1540142791 -0500	revert: Revert "Merge branch 'master' of https://github.com/bmccary/18f-math-2370-Q977E"
+628d128c5a4e383e68165028735f5b3f62fb1354 08cc58fbe30e8ac41bb476de13fa16239b883baf Vincent Nguyen <vincentn98@gmail.com> 1540142804 -0500	revert: Revert "Revert "Merge branch 'master' of https://github.com/bmccary/18f-math-2370-Q977E""
+08cc58fbe30e8ac41bb476de13fa16239b883baf fc22a15b786ba4741b45d958e3689a58a3e091ee Vincent Nguyen <vincentn98@gmail.com> 1540306202 -0500	pull --no-rebase --progress origin: Fast-forward
+fc22a15b786ba4741b45d958e3689a58a3e091ee c254dd7b8c6fb111059145f009e4e24c96e677b7 Vincent Nguyen <vincentn98@gmail.com> 1540306907 -0500	commit: 10/23/18
+c254dd7b8c6fb111059145f009e4e24c96e677b7 32a5c4ac6f6d4e19ffed8fd5d1ba5957775aaad4 Vincent Nguyen <vincentn98@gmail.com> 1540307065 -0500	commit: 10/23/18
+32a5c4ac6f6d4e19ffed8fd5d1ba5957775aaad4 dc79fd3d337d616c96c672e2a62f6debd743f5e8 Vincent Nguyen <vincentn98@gmail.com> 1540398168 -0500	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+dc79fd3d337d616c96c672e2a62f6debd743f5e8 2dab47b5cd6652121c3914d313da6d88f2473ea1 Vincent Nguyen <vincentn98@gmail.com> 1541609006 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+2dab47b5cd6652121c3914d313da6d88f2473ea1 e778b1cb45456ee9173669c363176b63e23b6c7e Vincent Nguyen <vincentn98@gmail.com> 1542141459 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+e778b1cb45456ee9173669c363176b63e23b6c7e 1938365b0330b16aaccdf71584698900a273f7cd Vincent Nguyen <vincentn98@gmail.com> 1542158175 -0600	commit: 11/13/18
+1938365b0330b16aaccdf71584698900a273f7cd 9697736ebdd2a1bafb0efff3654ec297066e7e6e Vincent Nguyen <vincentn98@gmail.com> 1542496352 -0600	pull --no-rebase --progress origin: Fast-forward
+9697736ebdd2a1bafb0efff3654ec297066e7e6e e041465dbd027c30c1bec2722c9739a71aa666a3 Vincent Nguyen <vincentn98@gmail.com> 1542499013 -0600	commit: 11/17/18
+e041465dbd027c30c1bec2722c9739a71aa666a3 3982a34745ab0afca01ba524baddc2d1971b6a59 Vincent Nguyen <vincentn98@gmail.com> 1543289748 -0600	commit: 11/26/18
+3982a34745ab0afca01ba524baddc2d1971b6a59 f78562ad3a739b9e8a7cc5d9341ee153fd1e77b5 Vincent Nguyen <vincentn98@gmail.com> 1543289767 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+f78562ad3a739b9e8a7cc5d9341ee153fd1e77b5 49b07c9e150756007ec9c81e5575eee9a26be2f0 Vincent Nguyen <vincentn98@gmail.com> 1543374676 -0600	pull --no-rebase --progress origin: Fast-forward
+49b07c9e150756007ec9c81e5575eee9a26be2f0 7ca26d119ac7f6a109b24f7412a5e3bf87e1d31d Vincent Nguyen <vincentn98@gmail.com> 1543376201 -0600	commit: 11/27/18
+7ca26d119ac7f6a109b24f7412a5e3bf87e1d31d a44fce1f27e19106b0eb7f4b2a6b1ba68087e4ff Vincent Nguyen <vincentn98@gmail.com> 1543433234 -0600	commit: 11/28/18
+a44fce1f27e19106b0eb7f4b2a6b1ba68087e4ff fdd464dc4ab47f3b0503bc0097d555def8a75646 Vincent Nguyen <vincentn98@gmail.com> 1543438295 -0600	commit: 11/28/18
+fdd464dc4ab47f3b0503bc0097d555def8a75646 f5ef317ae0d2f1b8c0fc27dafad3fdb29112b022 Vincent Nguyen <vincentn98@gmail.com> 1543697101 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+f5ef317ae0d2f1b8c0fc27dafad3fdb29112b022 a6220dba0403b080970cf104f91182c556c905c5 Vincent Nguyen <vincentn98@gmail.com> 1543702104 -0600	commit: 12/1/18
+a6220dba0403b080970cf104f91182c556c905c5 98edbc425f8c162cd9d1e793ee81cf11a22d4db4 Vincent Nguyen <vincentn98@gmail.com> 1543702111 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+98edbc425f8c162cd9d1e793ee81cf11a22d4db4 223574d2b0bd3cd621b563a08a4b51a330cc22bf Vincent Nguyen <vincentn98@gmail.com> 1543717875 -0600	commit: 12/1/18
+223574d2b0bd3cd621b563a08a4b51a330cc22bf f4709db1d7390f221a3fbd4753213aa488c551f2 Vincent Nguyen <vincentn98@gmail.com> 1543955933 -0600	commit: 12/4/18
+f4709db1d7390f221a3fbd4753213aa488c551f2 1e886bf08351295bba2ad1ee7c1dcefc7ddc027f Vincent Nguyen <vincentn98@gmail.com> 1543955938 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+1e886bf08351295bba2ad1ee7c1dcefc7ddc027f d469cc66396cff8f47b4256100c89ea876715e5d Vincent Nguyen <vincentn98@gmail.com> 1543960859 -0600	commit: 12/4/18
+d469cc66396cff8f47b4256100c89ea876715e5d 81a61a8bc2ae5b17f3cea621095ded4bcf05822e Vincent Nguyen <vincentn98@gmail.com> 1543966135 -0600	commit: 12/4/18
+81a61a8bc2ae5b17f3cea621095ded4bcf05822e 09d8ca64a669618f56c29eee48cd1c5a8acd9301 Vincent Nguyen <vincentn98@gmail.com> 1543979832 -0600	commit: 12/4/18
+09d8ca64a669618f56c29eee48cd1c5a8acd9301 62128a3c29fae5619c8ab04e460dfcbc82690abc Vincent Nguyen <vincentn98@gmail.com> 1544121060 -0600	pull --no-rebase --progress origin: Fast-forward
+62128a3c29fae5619c8ab04e460dfcbc82690abc 5a74b94068690c66c7e2df3265ad64c12443b2b6 Vincent Nguyen <vincentn98@gmail.com> 1544137921 -0600	commit: 12/6/18
+5a74b94068690c66c7e2df3265ad64c12443b2b6 57a4cba9005317ce372120cc5a3bd1d869249c6b Vincent Nguyen <vincentn98@gmail.com> 1544140687 -0600	commit: 12/6/18
+57a4cba9005317ce372120cc5a3bd1d869249c6b 2b3ba9fc7297b2f8040870204bc64f5735fc76df Vincent Nguyen <vincentn98@gmail.com> 1544301397 -0600	pull --no-rebase --progress origin: Fast-forward
+2b3ba9fc7297b2f8040870204bc64f5735fc76df 1775f5a814946d2061ccbd3279f303ffe84fc1e0 Vincent Nguyen <vincentn98@gmail.com> 1544313204 -0600	commit: 12/8/18
+1775f5a814946d2061ccbd3279f303ffe84fc1e0 fb2b80b7c6bed0af670c7ecdbd6050a5b21e4a70 Vincent Nguyen <vincentn98@gmail.com> 1544313209 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+fb2b80b7c6bed0af670c7ecdbd6050a5b21e4a70 5cb0090daf0e14c886f22244eb05bfc0f3902cdf Vincent Nguyen <vincentn98@gmail.com> 1544313862 -0600	commit: 12/8/18
+5cb0090daf0e14c886f22244eb05bfc0f3902cdf 91230988b37167ffb1f04f64a220f1e88afa1144 Vincent Nguyen <vincentn98@gmail.com> 1544315868 -0600	commit: 12/8/18
+91230988b37167ffb1f04f64a220f1e88afa1144 5f4d6fc86709fc53fa37d13e0c8829151e04388c Vincent Nguyen <vincentn98@gmail.com> 1544315962 -0600	commit: 12/8/18
+5f4d6fc86709fc53fa37d13e0c8829151e04388c cfa8387677f4fc4061f5570da74408186893a344 Vincent Nguyen <vincentn98@gmail.com> 1544322259 -0600	commit: 12/8/18
+cfa8387677f4fc4061f5570da74408186893a344 c4aa18ecb63c53a093f3c6614632fc47b23d9488 Vincent Nguyen <vincentn98@gmail.com> 1544323005 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+c4aa18ecb63c53a093f3c6614632fc47b23d9488 a0140f4ec17217e84ab7df453c6115c72289710a Vincent Nguyen <vincentn98@gmail.com> 1544325949 -0600	commit: 12/8/18
+a0140f4ec17217e84ab7df453c6115c72289710a 4096a555217543d5bb03f0675334ff47bd0e319b Vincent Nguyen <vincentn98@gmail.com> 1544325952 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+4096a555217543d5bb03f0675334ff47bd0e319b ff6b5b2e16ac4316eb61f80bd0ad0e346d0d9e5f Vincent Nguyen <vincentn98@gmail.com> 1544479374 -0600	commit: 12/10/18
+ff6b5b2e16ac4316eb61f80bd0ad0e346d0d9e5f 96646a9742fcda344da9daed25f03303f48f93e6 Vincent Nguyen <vincentn98@gmail.com> 1544479378 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+96646a9742fcda344da9daed25f03303f48f93e6 74a2ccb98e841dac0f20e5c0f9e1b80f5d7cba83 Vincent Nguyen <vincentn98@gmail.com> 1544480410 -0600	commit: 12/10/18
+74a2ccb98e841dac0f20e5c0f9e1b80f5d7cba83 bbfbb501fb4bb791d685f9bc529ddb7f43a95750 Vincent Nguyen <vincentn98@gmail.com> 1544661155 -0600	commit: 12/12/18
+bbfbb501fb4bb791d685f9bc529ddb7f43a95750 b13297044a4a6a805d3f9674f5e1acea7d65b488 Vincent Nguyen <vincentn98@gmail.com> 1544661158 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+b13297044a4a6a805d3f9674f5e1acea7d65b488 04fdfaf19b993f1621b881eb3bae129078653c94 Vincent Nguyen <vincentn98@gmail.com> 1544745070 -0600	commit: 12/13/18
+04fdfaf19b993f1621b881eb3bae129078653c94 683eaac18a1c7320739e4eceb674a3fb5e0c3212 Vincent Nguyen <vincentn98@gmail.com> 1544745179 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+683eaac18a1c7320739e4eceb674a3fb5e0c3212 632d05953c1cfb4d54887548e158b34a1e332fdf Vincent Nguyen <vincentn98@gmail.com> 1545066523 -0600	commit: 12/17/18
+632d05953c1cfb4d54887548e158b34a1e332fdf d10d21707be3247ec27312d63ec0fb3f4d04dda5 Vincent Nguyen <vincentn98@gmail.com> 1545066528 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+d10d21707be3247ec27312d63ec0fb3f4d04dda5 59fcd06157c3db1ca5cebebbac6a939bec1e7b39 Vincent Nguyen <vincentn98@gmail.com> 1545152035 -0600	commit: 12/18/18
+59fcd06157c3db1ca5cebebbac6a939bec1e7b39 b5ff916809e56e6f828797bf6d315297f3fdcb19 Vincent Nguyen <vincentn98@gmail.com> 1545152040 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+b5ff916809e56e6f828797bf6d315297f3fdcb19 996d965cafef57a105e90412253a5a39ac277e48 Vincent Nguyen <vincentn98@gmail.com> 1545248669 -0600	commit: 12/19/18
+996d965cafef57a105e90412253a5a39ac277e48 bd8dfead8e9c9d083e56f272af0621193c503c77 Vincent Nguyen <vincentn98@gmail.com> 1545248675 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+bd8dfead8e9c9d083e56f272af0621193c503c77 90bbc58554d91fa28597f47faaceacd009e4dae9 Vincent Nguyen <vincentn98@gmail.com> 1545253755 -0600	commit: 12/19/18
+90bbc58554d91fa28597f47faaceacd009e4dae9 eaafc0b16ee3795a0a35e3cd42c50486d6ab5ceb Vincent Nguyen <vincentn98@gmail.com> 1545269599 -0600	commit: 12/19/18
+eaafc0b16ee3795a0a35e3cd42c50486d6ab5ceb e0260874267df29fc82971221b18bbe6ef278534 Vincent Nguyen <vincentn98@gmail.com> 1545275044 -0600	commit: 12/19/18
+e0260874267df29fc82971221b18bbe6ef278534 fb4eeafb32b968e1ebe6e2f9ddffc1038b00123f Vincent Nguyen <vincentn98@gmail.com> 1545275050 -0600	pull --no-rebase --progress origin: Merge made by the 'recursive' strategy.
+fb4eeafb32b968e1ebe6e2f9ddffc1038b00123f f5b4d633616a18bf07e6d0a5001b060b71b94dc6 Vincent Nguyen <vincentn98@gmail.com> 1545282461 -0600	commit: 12/19/18

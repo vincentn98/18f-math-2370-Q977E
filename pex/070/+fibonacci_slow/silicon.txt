@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.fibonacci_slow.test/test__fibonacci_slow__count
+ok 2 - pex.task.fibonacci_slow.test/test__fibonacci_slow__dependence
+ok 3 - pex.task.fibonacci_slow.test/test__fibonacci_slow__exception
+ok 4 - pex.task.fibonacci_slow.test/test__fibonacci_slow__format
+ok 5 - pex.task.fibonacci_slow.test/test__fibonacci_slow__output
+ok 6 - pex.task.fibonacci_slow.test/test__fibonacci_slow__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

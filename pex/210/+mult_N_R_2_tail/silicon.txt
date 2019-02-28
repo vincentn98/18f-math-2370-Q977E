@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.mult_N_R_2_tail.test/test__mult_N_R_2_tail__count
+ok 2 - pex.task.mult_N_R_2_tail.test/test__mult_N_R_2_tail__dependence
+ok 3 - pex.task.mult_N_R_2_tail.test/test__mult_N_R_2_tail__exception
+ok 4 - pex.task.mult_N_R_2_tail.test/test__mult_N_R_2_tail__format
+ok 5 - pex.task.mult_N_R_2_tail.test/test__mult_N_R_2_tail__output
+ok 6 - pex.task.mult_N_R_2_tail.test/test__mult_N_R_2_tail__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

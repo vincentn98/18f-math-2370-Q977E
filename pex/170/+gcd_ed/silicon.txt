@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.gcd_ed.test/test__gcd_ed__count
+ok 2 - pex.task.gcd_ed.test/test__gcd_ed__dependence
+ok 3 - pex.task.gcd_ed.test/test__gcd_ed__exception
+ok 4 - pex.task.gcd_ed.test/test__gcd_ed__format
+ok 5 - pex.task.gcd_ed.test/test__gcd_ed__output
+ok 6 - pex.task.gcd_ed.test/test__gcd_ed__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

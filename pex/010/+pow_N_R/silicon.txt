@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.pow_N_R.test/test__pow_N_R__count
+ok 2 - pex.task.pow_N_R.test/test__pow_N_R__dependence
+ok 3 - pex.task.pow_N_R.test/test__pow_N_R__exception
+ok 4 - pex.task.pow_N_R.test/test__pow_N_R__format
+ok 5 - pex.task.pow_N_R.test/test__pow_N_R__output
+ok 6 - pex.task.pow_N_R.test/test__pow_N_R__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

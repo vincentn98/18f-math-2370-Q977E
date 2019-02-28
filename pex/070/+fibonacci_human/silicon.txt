@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.fibonacci_human.test/test__fibonacci_human__count
+ok 2 - pex.task.fibonacci_human.test/test__fibonacci_human__dependence
+ok 3 - pex.task.fibonacci_human.test/test__fibonacci_human__exception
+ok 4 - pex.task.fibonacci_human.test/test__fibonacci_human__format
+ok 5 - pex.task.fibonacci_human.test/test__fibonacci_human__output
+ok 6 - pex.task.fibonacci_human.test/test__fibonacci_human__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

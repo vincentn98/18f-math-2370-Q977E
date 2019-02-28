@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.down.test/test__down__count
+ok 2 - pex.task.down.test/test__down__dependence
+ok 3 - pex.task.down.test/test__down__exception
+ok 4 - pex.task.down.test/test__down__format
+ok 5 - pex.task.down.test/test__down__output
+ok 6 - pex.task.down.test/test__down__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

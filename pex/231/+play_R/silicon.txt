@@ -1,0 +1,301 @@
+1..7
+not ok 1 - pex.task.play_R.test/test__play_R__count
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-3.154009e+04), 0.007763) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+play_R/test.m (test__play_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(3.421062e+04), 0.006561) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+play_R/test.m (test__play_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-2.774885e+04), 0.005812) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+play_R/test.m (test__play_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(4.582607e+04), 0.003237) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+play_R/test.m (test__play_R__count) at 35
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__count.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-3.696041e+04), 0.007402) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_count.m (test_count_generic) at 50
+#     In #+pex/+test/test_count.m (test_count) at 7
+#     In #+pex/+task/+play_R/test.m (test__play_R__count) at 35
+# ================================================================================
+#
+ok 2 - pex.task.play_R.test/test__play_R__dependence
+not ok 3 - pex.task.play_R.test/test__play_R__exception
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-3.154009e+04), 0.007763) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+play_R/test.m (test__play_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(3.421062e+04), 0.006561) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+play_R/test.m (test__play_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-2.774885e+04), 0.005812) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+play_R/test.m (test__play_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(4.582607e+04), 0.003237) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+play_R/test.m (test__play_R__exception) at 43
+# ================================================================================
+#
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__exception.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-3.696041e+04), 0.007402) to succeed, but your function threw exception `down_R:interval` (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+test/test_exception.m (test_exception) at 38
+#     In #+pex/+task/+play_R/test.m (test__play_R__exception) at 43
+# ================================================================================
+#
+ok 4 - pex.task.play_R.test/test__play_R__format
+not ok 5 - pex.task.play_R.test/test__play_R__output
+# ================================================================================
+# Verification failed in pex.task.play_R.test/test__play_R__output.
+#
+#     ----------------
+#     Test Diagnostic:
+#     ----------------
+#     Expected play_R(make_oracle_R(-3.154009e+04), 0.007763) == -31540.083984, your function threw exception down_R:interval (Inputs a and b must satisfy a <= b.).
+#
+#     ---------------------
+#     Framework Diagnostic:
+#     ---------------------
+#     verifyTrue failed.
+#     --> The value must evaluate to "true".
+#
+#     Actual Value:
+#       logical
+#
+#        0
+#
+#     ------------------
+#     Stack Information:
+#     ------------------
+#     In #+pex/+task/+play_R/test_output.m (test_output) at 56
+#     In #+pex/+test/test_output.m (test_output) at 9
+#     In #+pex/+task/+play_R/test.m (test__play_R__output) at 51
+# ================================================================================
+#
+ok 6 - pex.task.play_R.test/test__play_R__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

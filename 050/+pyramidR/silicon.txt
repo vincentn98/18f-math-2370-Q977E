@@ -1,9 +1,0 @@
-1..7
-ok 1 - pex.task.pyramidR.test/test__pyramidR__count
-ok 2 - pex.task.pyramidR.test/test__pyramidR__dependence
-ok 3 - pex.task.pyramidR.test/test__pyramidR__exception
-ok 4 - pex.task.pyramidR.test/test__pyramidR__format
-ok 5 - pex.task.pyramidR.test/test__pyramidR__output
-ok 6 - pex.task.pyramidR.test/test__pyramidR__warning
-ok 7 - pex.test.test_manifest/test_recurse
-

@@ -1,0 +1,9 @@
+1..7
+ok 1 - pex.task.isN.test/test__isN__count
+ok 2 - pex.task.isN.test/test__isN__dependence
+ok 3 - pex.task.isN.test/test__isN__exception
+ok 4 - pex.task.isN.test/test__isN__format
+ok 5 - pex.task.isN.test/test__isN__output
+ok 6 - pex.task.isN.test/test__isN__warning
+ok 7 - pex.test.test_manifest/test_recurse
+

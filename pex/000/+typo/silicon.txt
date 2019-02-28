@@ -1,0 +1,4 @@
+1..2
+ok 1 - pex.task.typo.test/test__typo__edited
+ok 2 - pex.test.test_manifest/test_recurse
+
